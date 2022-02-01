@@ -1,0 +1,9 @@
+{
+	"ip":"PHOENIX_SMPv2.aternos.me",
+	"port": 44557,
+	"name": "OP_BOT",
+	"auto-night-skip":"True",
+	"login-enabled":"true",
+	"register-cmd":"/register (115115115) (115115115)",
+	"login-cmd":"/login (115115115)"
+}
